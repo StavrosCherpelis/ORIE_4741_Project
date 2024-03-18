@@ -1,2 +1,3 @@
-# Project Title(PLACEHOLDER)
-#sgc76, 
+# Predicting Earthquack magnitude
+#sgc76, vsm29
+
